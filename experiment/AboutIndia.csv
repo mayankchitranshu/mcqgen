@@ -1,6 +1,7 @@
 MCQ,Choices,Correct
-What is the traditional dress worn by women in India?,a: Jeans and sweater | b: Churidars and kameez | c: Bandgala and Nehru jackets | d: Dhoti and woollen shawl,b
-"Which dance form has been accorded classical dance status by India's National Academy of Music, Dance, and Drama?",a: Bhangra | b: Garba | c: Bharatanatyam | d: Ghoomar,c
-What is the largest sector of the Indian film industry in terms of box office revenue?,a: Bengali film industry | b: Telugu film industry | c: Hindi film industry (Bollywood) | d: Tamil film industry,c
-Which garment is traditionally worn by men in India?,a: Sari | b: Kurta | c: Choli | d: Pyjamas,b
-What is the literacy rate of the Indian population according to the 2011 census?,a: 41% | b: 73% | c: 18% | d: 5%,b
+What command is used to create a connection factory in EMS Administration Tool?,a: add factory | b: create factory | c: set factory | d: remove factory,b
+Which file stores the connection factory data on the EMS server?,a: connections.conf | b: factories.conf | c: configurations.conf | d: servers.conf,b
+How can you list all the connection factories on your EMS server?,a: list factories | b: show factories | c: view factories | d: display factories,b
+Which command is used to set the maximum number of connection attempts for a connection factory?,a: addprop factory | b: setprop factory | c: modify factory | d: update factory,a
+How can you create a secure connection factory for establishing a TLS connection?,a: create factory mySecureFactory generic URL=ssl://server1:7243 | b: add factory secureFactory URL=tls://server1:7243 | c: set factory secureFactory URL=ssl://server1:7243 | d: remove factory secureFactory URL=tls://server1:7243,a
+What must be specified when creating a connection factory for a fault-tolerant client?,a: Multiple server URLs | b: Single server URL | c: No server URL | d: Random server URL,a
